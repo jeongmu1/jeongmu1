@@ -14,4 +14,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongmu1&show_icons=true&theme=tokyonight)
+
+<div align="center">
+  🌱 I’m currently learning ...
+   <br>
+  
+  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmu1&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+  
